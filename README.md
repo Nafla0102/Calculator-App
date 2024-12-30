@@ -43,6 +43,4 @@ You can try the live version of the calculator by visiting this link:
 
 ✍️ Author
 Created by AN. Fathima Nafla 👩‍💻.
-Feel free to share your feedback or suggestions by opening an issue in this repository or reaching out through my contact details!
-
 
