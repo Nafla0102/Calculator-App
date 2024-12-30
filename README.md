@@ -33,4 +33,14 @@ Follow these steps to run the project locally:
 🌐 Live Demo
 You can try the live version of the calculator by visiting this link:
 
-🔗 
+🔗 https://nafla0102.github.io/Calculator-App/
+
+📸 Screenshot
+![image](https://github.com/user-attachments/assets/4e5567df-028d-4bc7-aa75-2f3958748ed6)
+
+
+✍️ Author
+Created by AN. Fathima Nafla 👩‍💻.
+Feel free to share your feedback or suggestions by opening an issue in this repository or reaching out through my contact details!
+
+
