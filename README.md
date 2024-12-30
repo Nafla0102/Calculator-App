@@ -36,6 +36,8 @@ You can try the live version of the calculator by visiting this link:
 🔗 https://nafla0102.github.io/Calculator-App/
 
 📸 Screenshot
+
+
 ![image](https://github.com/user-attachments/assets/4e5567df-028d-4bc7-aa75-2f3958748ed6)
 
 
